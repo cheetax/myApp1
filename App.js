@@ -18,7 +18,7 @@ const instructions = Platform.select({
   android: 'Double tap R on your keyboard to reload,\n' +
     'Shake or press menu button for dev menu',
 });
-// git init
+// github init
 export default class App extends Component  { //
   render() {
     return (
